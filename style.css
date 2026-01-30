@@ -52,7 +52,8 @@ h2 {
 }
 
 .card {
-  background: #161a25;
+  background: rgba(15, 17, 23, 0.85);
+  backdrop-filter: blur(6px);
   padding: 25px;
   border-radius: 12px;
   margin-bottom: 30px;
