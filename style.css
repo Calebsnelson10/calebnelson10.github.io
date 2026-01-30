@@ -5,8 +5,13 @@
   font-family: 'Inter', Arial, sans-serif;
 }
 
-body {
-  background-color: #0f1117;
+  body {
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
   color: #e6e6e6;
   line-height: 1.6;
 }
