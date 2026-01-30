@@ -27,6 +27,9 @@ nav {
 nav h1 {
   color: #4da3ff;
   font-size: 1.3rem;
+  text-shadow:
+    0 0 5px rgba(77, 163, 255, 0.6),
+    0 0 10px rgba(77, 163, 255, 0.25);
 }
 
 nav a {
